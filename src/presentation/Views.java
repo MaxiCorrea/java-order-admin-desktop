@@ -132,6 +132,7 @@ public class Views {
     centerPane.add(productView = new ProductView(), "1");
     centerPane.add(orderView = new OrderView(), "2");
     centerPane.add(toolsView = new ToolsView(), "3");
+    centerPane.add(new AboutView(), "4");
     return centerPane;
   }
 

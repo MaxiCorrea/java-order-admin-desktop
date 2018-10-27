@@ -18,7 +18,7 @@ public class OperationsView extends JPanel {
   private static final long serialVersionUID = 1L;
 
   private final int SIZE_OPERATIONS = 5;
-  private final String[] labels = {"Clientes", "Productos", "Pedidos", "Herramientas", "Ayuda"};
+  private final String[] labels = {"Clientes", "Productos", "Pedidos", "Herramientas", "Acerca De"};
 
   private JPanel contentPane;
   private FlowLayout layout;
