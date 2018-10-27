@@ -23,7 +23,7 @@ public class Application {
       @Override
       public void run() {
         Views views = new Views();
-        /*views.setCustomerAdmin(new CustomerAdmin());
+        views.setCustomerAdmin(new CustomerAdmin());
         views.setOrderAdmin(new OrderAdmin());
         views.setProductAdmin(new ProductAdmin());
         views.setDistrictAdmin(new DistrictAdmin());
@@ -32,7 +32,7 @@ public class Application {
         views.setCategoryProductAdmin(new ProductCategoryAdmin());
         views.setPaymentMethod(new PaymentMethodAdmin());
         views.setOrderStatusAdmin(new OrderStatusAdmin());
-        views.setTimeZoneAdmin(new TimeZoneAdmin());*/
+        views.setTimeZoneAdmin(new TimeZoneAdmin());
         views.show();
       }
     });
