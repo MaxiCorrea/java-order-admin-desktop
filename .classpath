@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.35-bin.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-digester3-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/groovy-all-2.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/itext-2.1.7.js4.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreports-3.5.0-javaflow.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreports-6.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreports-chart-customizers-6.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreports-chart-themes-6.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreports-fonts-6.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreports-functions-6.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-2.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-2.5.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
