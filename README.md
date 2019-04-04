@@ -3,7 +3,7 @@ Sistema de administracion de pedidos programado en taller de programacion 2017 U
 
 ## Desarrolladores
 
-- Lucas Frias        ---> https://github.com/LucasFrias94
+- Lucas Frias        ---> https://github.com/lucasfrias0612
 - Maximiliano Correa ---> https://github.com/MaxiCorrea
 
 ## Tecnologias
